@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+## Developed by : AMSAVARADHAN M
+## Register Number : 212225230014
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
