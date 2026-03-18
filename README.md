@@ -70,6 +70,5 @@ Enter the values of Y separated by space
 The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
 ```
 <img width="576" height="432" alt="OutputGraph" src="https://github.com/user-attachments/assets/a8fd2d9e-4f7e-4048-8b1c-6fee4c05b00a" />
-
 # Result
 Thus the program is implemented and Executed Successfully
